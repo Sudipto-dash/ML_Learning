@@ -1,0 +1,16 @@
+2022-05-19 22:45:33 WARNING-Log Warning message
+2022-05-19 22:45:33 ERROR-Log Error
+2022-05-19 22:45:33 WARNING-Log Warning message
+2022-05-19 22:45:33 CRITICAL-Log Critical
+2022-05-19 22:45:33 WARNING-Log Warning message
+2022-05-19 22:45:33 ERROR-Log Error
+2022-05-19 22:45:33 WARNING-Log Warning message
+2022-05-19 22:45:33 ERROR-Log Error
+2022-05-19 22:45:33 WARNING-Log Warning message
+2022-05-19 22:45:33 CRITICAL-Log Critical
+2022-05-19 22:45:33 WARNING-Log Warning message
+2022-05-19 22:45:33 ERROR-Log Error
+2022-05-19 22:45:33 WARNING-Log Warning message
+2022-05-19 22:45:33 ERROR-Log Error
+2022-05-19 22:45:33 WARNING-Log Warning message
+2022-05-19 22:45:36 ERROR-Math Error.Can not divide by 0
